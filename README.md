@@ -1,4 +1,4 @@
-# 🖖 Greeter DApp on Base Network
+# 🖖 Greetings DApp on Base Network
 
 A simple decentralized application (DApp) featuring a **Greeter smart contract** deployed on the **Base Sepolia Testnet**.
 
@@ -27,4 +27,5 @@ Make sure you have the following installed:
    ```bash
    git clone <your-repo-url>
    cd greetings-dapp
+
 
